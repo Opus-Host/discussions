@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![Opus Host Logo](logo.png) Opus Host Community
+# 🏛️ Opus Host Community
 
 **The Community Hub for Opus Host**
 
